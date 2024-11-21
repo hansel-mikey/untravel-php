@@ -1,0 +1,3 @@
+price in rooms.php
+admin can shutdown the site //maintainance page
+blog ->ui //
